@@ -1,6 +1,11 @@
-# requirements.txt
 streamlit
 pandas
-scikit-learn
+numpy
 folium
 streamlit-folium
+streamlit-option-menu
+streamlit-geolocation
+scikit-learn
+geopy
+Pillow
+fpdf
