@@ -1,0 +1,6 @@
+# requirements.txt
+streamlit
+pandas
+scikit-learn
+folium
+streamlit-folium

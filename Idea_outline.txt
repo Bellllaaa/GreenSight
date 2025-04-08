@@ -1,0 +1,9 @@
+Main function:
+allow user to drop a pin on the map;
+include machine learning algorithm that predicts heatspot based on historical data;
+shows range of possible pollution area on map (similar to the above just show on map)
+
+Pages: main page for user to report location, subpage showing historical data analysis
+
+Data: ideally stored in csv file easy for plotting; Have some example data points
+
